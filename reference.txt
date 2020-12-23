@@ -1,0 +1,9 @@
+# How to Setup WIFI hotspot on raspberry pi ubuntu mate
+# includes internet-passthrough from ETH
+https://www.diyhobi.com/install-wifi-hotspot-raspberry-pi-ubuntu-mate/
+
+# How to UNCOMMENT a line that contains a specific string using Sed?
+https://stackoverflow.com/questions/24889346/how-to-uncomment-a-line-that-contains-a-specific-string-using-sed
+
+# Modify a single value in config files
+https://stackoverflow.com/questions/2464760/modify-config-file-using-bash-script

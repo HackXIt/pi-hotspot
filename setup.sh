@@ -65,3 +65,8 @@ systemctl start NetworkManager.service
 echo "Started services, WLAN Hotspot should be running now."
 echo "SSID: Systest-Spot"
 echo "PASS: Syst3m_t3st"
+
+mv start-spot.sh.x /usr/local/sbin/start-spot
+echo "Start hotspot with 'start-spot' - Root priviledges required."
+mv stop-spot.sh.x /usr/local/sbin/stop-spot
+echo "Stop hotspot with 'stop-spot' - Root priviledges required."
